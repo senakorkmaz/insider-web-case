@@ -31,5 +31,5 @@ https://github.com/senakorkmaz/insider-web-case.git
 1. Run ` pip install pipenv ` to install pipenv if it does not exist.
 2. Run ` pipenv install ` to install dependencies with new env.
 3. Run ` pipenv shell` to run env.
-4. Run ` pipenv run python3 -m pytest --html=report.html` to run env.
+4. Run ` pipenv run python3 -m pytest --html=report.html` to test.
 After the runing test you can check *report.html* file for the report
